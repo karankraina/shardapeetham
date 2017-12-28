@@ -235,17 +235,7 @@ a:hover{
     border-color: orange;
 }
 
-.abc{
-	border-color: white;
-	background-color: orange;
-	margin: 5px;
-	color: white;
-	font-weight: bolder;
-	border-width: 2px;
-	border-style: solid;
-	border-radius: 8px;
 
-}
 .menu-scroll a.logo img{
 	color:#fff;
 	opacity:1;
