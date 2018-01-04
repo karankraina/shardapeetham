@@ -58,3 +58,10 @@ li{
 	border-radius: 8px;
 
 }
+.pages{
+	position: relative;
+	display: inline;
+	top: 200px;
+	left: 30%;
+	
+}

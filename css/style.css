@@ -260,7 +260,7 @@ a:hover{
 	z-index: 300;
     box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
     -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-    background-color: #000;
+    background-color: black;
 	color:#ffd600;
 	height:130px;
 	z-index:9999; 
