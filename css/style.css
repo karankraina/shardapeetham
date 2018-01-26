@@ -16,7 +16,11 @@ Author link :bootstrapthemes.co
 	font-family: "shakti";
 	src: url("fonts/sharda.ttf");
 }
-
+input{
+	position: absolute;
+	top: 350px;
+	left: 400px;
+}
 html {
 	width: 100%;
 	overflow-x: hidden;
